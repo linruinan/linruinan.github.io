@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>My Site Blog</title>
+        <title>菜鸟驿站 Blog</title>
         <link>https://linruinan.github.io/blog</link>
-        <description>My Site Blog</description>
+        <description>菜鸟驿站 Blog</description>
         <lastBuildDate>Tue, 22 Dec 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
